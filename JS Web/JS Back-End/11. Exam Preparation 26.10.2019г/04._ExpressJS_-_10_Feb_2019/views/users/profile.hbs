@@ -1,0 +1,30 @@
+<h1>My Profile</h1>
+<div class="profile-box">
+  <img src="{{currentUser.profilePicture}}">
+  <div class="profile">
+    <div class="info">
+      <h3>My Teams</h3>
+      {{#if currentUser.teams}}
+      {{#each teams}}
+      <form>
+        <p>{{this.name}}</p>
+        <input type="submit" value="Leave Team">
+      </form>
+      {{/each}}
+      {{else}}
+      <p>You have no teams!</p>
+      {{/if}}
+    </div>
+    <div class="more-info">
+      <h3>My Projects</h3>
+      {{#if currentUser.projects}}
+      <form>
+        <p>Developers</p>
+        <input type="submit" value="Leave Team">
+      </form>
+      {{else}}
+      <p>You have no projects!</p>
+      {{/if}}
+    </div>
+  </div>
+</div>

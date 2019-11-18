@@ -1,0 +1,36 @@
+{{#if courses}}
+<div class="row">
+    <div class="col text-center">
+        <a href="/create/course"><button type="button" class="btn btn-primary btn-lg">Create Course</button></a>
+    </div>
+</div>
+
+<div class="border border-light p-5">
+    <h1 class="text-center">Choose Course</h1>
+    <ul class="list-group">
+        {{#each courses}}
+        <li class="list-group-item">
+            {{this.title}}
+            <div class="float-right">
+                <div class="btn-group" role="group">
+                    <a href="/edit/course/{{this._id}}"><button type="button" class="btn btn-warning">Edit Course</button></a>
+                    <a href="/add/lecture/{{this._id}}"><button type="button" class="btn btn-success">Add lectures</button></a>
+                </div>
+                Lectures in course
+                <span class="badge badge-primary badge-pill">{{this.lectures.length}}</span>
+            </div>
+        </li>
+        {{/each}}
+    </ul>
+</div>
+{{else}}
+<div class="row">
+    <div class="col text-center">
+        <a href="/create/course"><button type="button" class="btn btn-primary btn-lg">Add Course</button></a>
+    </div>
+</div>
+
+<div class="border border-light p-5">
+    <h1 class="text-center">No courses in database. Please create one</h1>
+</div>
+{{/if}}
