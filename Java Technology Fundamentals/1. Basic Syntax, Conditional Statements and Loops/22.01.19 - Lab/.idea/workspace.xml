@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="947af1f0-a88b-47c5-af40-621d6c015af1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/22_01_19___Lab$Sum_Odd_Numbers_09.ic" NAME="Sum_Odd_Numbers_09 Coverage Results" MODIFIED="1548377037446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="294" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WhgAfPmmsqcQxchQfXkCOSsbkQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548380880282" />
+  </component>
+  <component name="RunManager" selected="Application.P11_Multiplication_Table_2">
+    <configuration name="P09_Sum_of_Odd_Numbers_v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P09_Sum_of_Odd_Numbers_v2" />
+      <module name="22.01.19 - Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P10_Multiplication_Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P10_Multiplication_Table" />
+      <module name="22.01.19 - Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P11_Multiplication_Table_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P11_Multiplication_Table_2" />
+      <module name="22.01.19 - Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P12_Even_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P12_Even_Number" />
+      <module name="22.01.19 - Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P13_Refactor_Sum_of_Odd_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P13_Refactor_Sum_of_Odd_Numbers" />
+      <module name="22.01.19 - Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.P11_Multiplication_Table_2" />
+      <item itemvalue="Application.P09_Sum_of_Odd_Numbers_v2" />
+      <item itemvalue="Application.P10_Multiplication_Table" />
+      <item itemvalue="Application.P12_Even_Number" />
+      <item itemvalue="Application.P13_Refactor_Sum_of_Odd_Numbers" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.P09_Sum_of_Odd_Numbers_v2" />
+        <item itemvalue="Application.P13_Refactor_Sum_of_Odd_Numbers" />
+        <item itemvalue="Application.P12_Even_Number" />
+        <item itemvalue="Application.P10_Multiplication_Table" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="947af1f0-a88b-47c5-af40-621d6c015af1" name="Default Changelist" comment="" />
+      <created>1548367747683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548367747683</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1579616309321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579616309321" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1579616309321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579616309321" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1579616309321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579616309321" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1579616309321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579616309321" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
